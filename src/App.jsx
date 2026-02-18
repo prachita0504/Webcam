@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react"
-import WebcamCapture from "./components/Webcamcapture"
+import WebcamCapture from "./components/WebcamCapture"
 import Gallery from "./components/Gallery"
 
 function App() {
